@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    display: flex;
+    flex: 1;
+    background-color: #fafafa;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    font-size: 22px;
+}
+
+hr {
+    width: 100vw;
+}
